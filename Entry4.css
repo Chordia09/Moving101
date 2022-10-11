@@ -1,0 +1,10 @@
+.list {
+    font-family:'Bely';
+    font-size: 40px;
+    display:inline-block;
+    border:5px solid #FFB39B;
+    padding:20px;
+    display: table; 
+    margin: 0 auto;
+    text-align: left; 
+}
